@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melbatoastje
-- 👀 I’m interested in engineering thermal energy systems with AI in industrial setting
+- 👀 I’m interested in engineering thermal energy systems with AI
 - 🌱 I’m currently improving my python skills
 - 💞️ I’m looking to collaborate on thermal engineering modules and simulation software
 - 📫 Send me a message via linkedin: https://www.linkedin.com/in/melchior-krijgsman-49b561181/
